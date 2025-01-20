@@ -1,0 +1,13 @@
+TCP/IP – a set of protocols that enable data transmission over a network.
+
+Firewall – filters network traffic by blocking unwanted connections.
+
+HTTPS/SSL – secures transmitted data through encryption.
+
+Load-balancer – distributes traffic across multiple servers to improve performance and reliability.
+
+Web server – handles HTTP requests and serves static content (HTML, CSS, JS).
+
+Application server – executes business logic and processes database requests.
+
+Database – stores and manages application data.
